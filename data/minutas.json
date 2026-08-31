@@ -226,5 +226,125 @@
       }
     ],
     "uploadedAt": "2026-08-31T21:57:26.495Z"
+  },
+  {
+    "id": "minuta_1788213894320_c9hipn",
+    "title": "Minuta de Reunión — Cierre Mensual Mayo\t     Fecha:Jueves 18 de junio de 2026IntegrantesNo.NombreCar",
+    "fechaRaw": "Jueves 18 de junio de 2026IntegrantesNo.NombreCargoAsistenci",
+    "fechaISO": "2026-06-18",
+    "integrantes": [
+      {
+        "nombre": "Joaquin Chavez",
+        "cargo": "Director",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Sebastián Chavez",
+        "cargo": "Finanzas/ Socio",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Javier Zarragoicoechea",
+        "cargo": "Socio",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Luis Jorge Carrasco",
+        "cargo": "Socio",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Francisco Sandoval",
+        "cargo": "Socio",
+        "asistencia": ""
+      },
+      {
+        "nombre": "Veronia Garza",
+        "cargo": "Family Office",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Claudia Reyes",
+        "cargo": "Family Office",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Iván Gómez",
+        "cargo": "Family Office",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Julián Gamboa",
+        "cargo": "Family Office",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Tracy Jacquez",
+        "cargo": "Family Office",
+        "asistencia": "Presente"
+      }
+    ],
+    "temas": [
+      {
+        "tema": "Cierre mes de mayo, salió la venta por debajo de lo presupuestado.",
+        "planteadoPor": "Joaquin Chavez"
+      },
+      {
+        "tema": "El presupuesto anual va a cambiar desde el mes de julio",
+        "planteadoPor": "Joaquin Chavez"
+      },
+      {
+        "tema": "Necesidades de la empresa con cada miembro del Family",
+        "planteadoPor": "Joaquin Chavez"
+      }
+    ],
+    "acuerdos": [
+      {
+        "acuerdo": "Nuevo presupuesto para el segundo semestre.",
+        "responsable": "Joaquin Chavez y Sebastián Rodríguez",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Identificar margen y rentabilidad por cliente",
+        "responsable": "Joaquin Chavez",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Manejar un plan de retención de clientes y atracción de nuevos clientes, contemplando capacidad de compra por cada cliente.",
+        "responsable": "Joaquin Chavez",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Bajar la nomina para que represente el 18% de la venta, posiblemente hasta el 16%",
+        "responsable": "Joaquin Chavez",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Emmanuel sale de la nomina y lo pagan los socios de aquí a diciembre",
+        "responsable": "Joaquin Chavez y Socios",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Trabajar la propuesta de la compra de un vehículo para que se use en favor de la empresa (según las necesidades de traslado de material)",
+        "responsable": "Joaquin Chavez y Sebastián Rodríguez",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Negociación con TAC para surtir material necesario para cumplir como proveedor con las necesidades de los clientes.",
+        "responsable": "Joaquin Chavez",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Política de material faltante o sobrante del almacén",
+        "responsable": "Joaquin Chavez",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Al final del año PIN debe de haber entregado a los socios lo acordado de utilidad mensual y haber ahorrado 1,200,000 que también se repartirá entre los socios. Si lo logra, el Director se lleva la mitad de lo que le corresponde a Luis Jorge, si no lo logra se rasura la barba y el bigote y se corta el cabello con maquina con la guía número 2.",
+        "responsable": "Joaquin Chavez",
+        "status": "pendiente"
+      }
+    ],
+    "uploadedAt": "2026-08-31T22:04:54.320Z"
   }
 ]
