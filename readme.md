@@ -1,0 +1,1 @@
+MINUTAS PIN
