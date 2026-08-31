@@ -1,0 +1,97 @@
+[
+  {
+    "id": "minuta_1788197452080_ny9omd",
+    "title": "Minuta de Reunión — Cierre Mensual Julio\t     Fecha:Jueves 20 de agosto de 2026IntegrantesNo.NombreC",
+    "fechaRaw": "Jueves 20 de agosto de 2026IntegrantesNo.NombreCargoAsistenc",
+    "fechaISO": "2026-08-20",
+    "integrantes": [
+      {
+        "nombre": "Joaquin Chavez",
+        "cargo": "Director",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Sebastián Rodríguez",
+        "cargo": "Finanzas/ Socio",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Javier Zarragoicoechea",
+        "cargo": "Socio",
+        "asistencia": ""
+      },
+      {
+        "nombre": "Luis Jorge Carrasco",
+        "cargo": "Socio",
+        "asistencia": ""
+      },
+      {
+        "nombre": "Francisco Sandoval",
+        "cargo": "Socio",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Veronia Garza",
+        "cargo": "Family Office",
+        "asistencia": ""
+      },
+      {
+        "nombre": "Claudia Reyes",
+        "cargo": "Family Office",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Iván Gómez",
+        "cargo": "Family Office",
+        "asistencia": ""
+      },
+      {
+        "nombre": "Julián Gamboa",
+        "cargo": "Family Office",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Tracy Jacquez",
+        "cargo": "Family Office",
+        "asistencia": "Presente"
+      }
+    ],
+    "temas": [
+      {
+        "tema": "Cierre mes de julio, UAFIR y Utilidad neta salió baja por inventario que se vendió en julio pero se entrega en agosto, por no llegar a tiempo el pedido",
+        "planteadoPor": "Joaquin Chavez"
+      },
+      {
+        "tema": "Necesidad de implementar una política de venta según facturado o según orden de compra recibida",
+        "planteadoPor": "Joaquin Chavez"
+      },
+      {
+        "tema": "Necesidad de política de entrega de utilidades, bonos de dirección y bonos de vendedores según acuerdo",
+        "planteadoPor": "Joaquin Chavez"
+      }
+    ],
+    "acuerdos": [
+      {
+        "acuerdo": "Platicar con socios política de venta ya sea que se considere venta:- Según Factura- Facturar en el momento en que se realiza orden de compra pero días de crédito se cuenta cuando se entrega el material- Según orden de compra pero la factura y días de crédito se sujetan a cuando se entrega el material",
+        "responsable": "Joaquin Chavez y Socios",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Según política de venta, establecer periodos de entrega de bonos a director y vendedores, y aclarar cuando si se cumple y cuando se queda por debajo de la meta de venta",
+        "responsable": "Joaquin Chavez y Socios",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Ver posibilidad de manejar a clientes nuevos como corrida aparte, ya que según el tamaño del pedido de clientes nuevos se puede llegar a necesitar una inversión por parte de los socios y que no afecte el flujo por la compra del material.",
+        "responsable": "Joaquin Chavez y Socios",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Aclarar periodos de entrega de utilidades a socios según flujo y según como queden las políticas y practicas mencionadas anteriormente, ya que los nuevos clientes están impactando en el flujo y resultado del mes en que hacen su pedido.",
+        "responsable": "Joaquin Chavez y Socios",
+        "status": "pendiente"
+      }
+    ],
+    "uploadedAt": "2026-08-31T17:30:52.080Z"
+  }
+]
