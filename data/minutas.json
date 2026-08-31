@@ -93,5 +93,138 @@
       }
     ],
     "uploadedAt": "2026-08-31T17:30:52.080Z"
+  },
+  {
+    "id": "minuta_1788213446495_e4z862",
+    "title": "Minuta de Reunión — Cierre Mensual Abril\t     Fecha:Jueves 21 de mayo de 2026IntegrantesNo.NombreCar",
+    "fechaRaw": "Jueves 21 de mayo de 2026IntegrantesNo.NombreCargoAsistencia",
+    "fechaISO": "2026-05-21",
+    "integrantes": [
+      {
+        "nombre": "Joaquin Chavez",
+        "cargo": "Director",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Sebastián Chavez",
+        "cargo": "Finanzas/ Socio",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Javier Zarragoicoechea",
+        "cargo": "Socio",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Luis Jorge Carrasco",
+        "cargo": "Socio",
+        "asistencia": ""
+      },
+      {
+        "nombre": "Francisco Sandoval",
+        "cargo": "Socio",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Veronia Garza",
+        "cargo": "Family Office",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Claudia Reyes",
+        "cargo": "Family Office",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Iván Gómez",
+        "cargo": "Family Office",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Julián Gamboa",
+        "cargo": "Family Office",
+        "asistencia": "Presente"
+      },
+      {
+        "nombre": "Tracy Jacquez",
+        "cargo": "Family Office",
+        "asistencia": "Presente"
+      }
+    ],
+    "temas": [
+      {
+        "tema": "Cierre mes de febrero, salió la venta por debajo de lo presupuestado.",
+        "planteadoPor": "Joaquin Chavez"
+      },
+      {
+        "tema": "Dentro de la reestructura se negocio con Limpieza Integral y PIN se queda con el proyecto de EATON",
+        "planteadoPor": "Joaquin Chavez"
+      },
+      {
+        "tema": "Por la necesidad y la forma de operar se contempla volverse también un Centro de Distribución de TAC, y por el momento la necesidad de contratar una nueva persona para Almacen y Calidad",
+        "planteadoPor": "Joaquin Chavez"
+      },
+      {
+        "tema": "Bono a José y personal administrativo y operativo",
+        "planteadoPor": "Joaquin Chavez"
+      },
+      {
+        "tema": "Esquema del Family Office",
+        "planteadoPor": "Family Office"
+      }
+    ],
+    "acuerdos": [
+      {
+        "acuerdo": "Se hará nuevo presupuesto para el segundo semestre del año, tomando en consideración que sale Limpieza Integral como cliente y las posibles negociaciones con TAC.",
+        "responsable": "Joaquin Chavez y Sebastián Rodríguez",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Negociar con TAC la posibilidad de formar un Centro de Distribución de TAC.",
+        "responsable": "Socios",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Recabar la data necesaria y suficiente para plantear la necesidad de funcionar también como un Centro de Distribución.",
+        "responsable": "Joaquin Chavez",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Se aprobó la contratación de una nueva persona para el Área de Almacen y a la vez que apoye en el Area de Calidad.",
+        "responsable": "Joaquin Chavez",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Se aprobó darle una bonificación a José por el apoyo y sus horas extras, se negociará con TAC para que las paguen ellos.",
+        "responsable": "Joaquin Chavez",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Ver un esquema para que la utilidad de febrero sea utilizada en la bonificación para el personal.",
+        "responsable": "Joaquin Chavez y Sebastián Rodríguez",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Verificar que el archivo de presupuesto muestre las cantidades correctas en los apartados correctos (aguinaldo, vacaciones, carga social, etc) y agregar utilidad o pérdida acumulada.",
+        "responsable": "Sebastián Rodríguez",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Juntarse el viernes 22 de mayo entre socios y director para trabajar la propuesta para TAC",
+        "responsable": "Socios y Joaquin Chavez",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "No se aprueba congelar la iguala de Family Office",
+        "responsable": "",
+        "status": "pendiente"
+      },
+      {
+        "acuerdo": "Se reunirán socios para proponer un esquema de pago para el Family Office",
+        "responsable": "Socios y Family Office",
+        "status": "pendiente"
+      }
+    ],
+    "uploadedAt": "2026-08-31T21:57:26.495Z"
   }
 ]
